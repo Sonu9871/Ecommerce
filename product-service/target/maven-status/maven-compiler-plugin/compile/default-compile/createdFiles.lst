@@ -1,0 +1,10 @@
+com\sonu\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\sonu\productservice\controller\ProductController.class
+com\sonu\productservice\model\Product$ProductBuilder.class
+com\sonu\productservice\model\Product.class
+com\sonu\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\sonu\productservice\repository\ProductRepository.class
+com\sonu\productservice\service\ProductService.class
+com\sonu\productservice\ProductServiceApplication.class
+com\sonu\productservice\dto\ProductRequest.class
+com\sonu\productservice\dto\ProductResponse.class

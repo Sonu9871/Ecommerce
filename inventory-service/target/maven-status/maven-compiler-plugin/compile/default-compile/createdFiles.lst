@@ -1,0 +1,5 @@
+com\sonu\inventoryservice\InventoryServiceApplication.class
+com\sonu\inventoryservice\model\Inventory.class
+com\sonu\inventoryservice\service\InventoryService.class
+com\sonu\inventoryservice\controller\InventoryController.class
+com\sonu\inventoryservice\repository\InventoryRepository.class
